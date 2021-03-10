@@ -1,0 +1,4 @@
+/node_modules
+/public
+.gitkeep
+npm-debug.log*
